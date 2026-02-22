@@ -1,0 +1,5 @@
+Valor do item 1:  15
+Valor do item 2: 125
+Valor do item 3:  30
+Valor do item 4: 155
+Total de itens na lista: 4
